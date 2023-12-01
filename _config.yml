@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: My Paper
+title: Game Dev Paper
 email: opeak123@hanmail.net
 name: Min-kyu Choi
 description: >- # this means to ignore newlines until "baseurl:"
-  제 페이퍼에 오신 것을 환영합니다.
+  Welcome to my Paper !
 keywords: [forward]
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 domain: "https://www.youtube.com/channel/UCuL7OYcraZktTWF9MV5LdRg" # the domain name for your site, e.g. example.com
-language: en
+language: ko
 # Supported languages list:
 # en: English
 # de: Deutsche (German)
