@@ -4,7 +4,7 @@ title: About this Paper
 permalink: /about/
 ---
 
-</br></br>
+<br><br>
 저의 게임 개발 페이퍼에 오신 것을 환영합니다. 
 
 이 페이퍼는 게임 개발에 관련된 자료들, 자료구조, 알고리즘, 개발과 관련된 일기를 작성하는 개인 공간입니다. 의견이 있으면 언제든지 연락을 주시면 감사하겠습니다. 여러분의 피드백은 저의 성장에 큰 도움이 됩니다.
@@ -16,7 +16,7 @@ permalink: /about/
 [이메일]: opeak123@hanmail.net
 
 
-</br></br>
+<br><br>
 Welcome to my Game Development Paper.
 
 This is a personal space where I share materials related to game development, data structures, algorithms, and my development journey
