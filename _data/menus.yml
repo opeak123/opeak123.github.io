@@ -1,4 +1,4 @@
-- default: menu_Playground
+- default: menu_index
   url:   ""
 
 - default: menu_category
@@ -8,5 +8,5 @@
   absoluteUrl: true
   url: "https://github.com/opeak123"
 
-- default: menu_about_Paper
+- default: menu_about
   url:   "about"
