@@ -1,12 +1,12 @@
-- default: menu_index
+- default: menu_Playground
   url:   ""
 
 - default: menu_category
   url:   "category"
 
-- title: "Game Dev Paper"
+- title: "Github"
   absoluteUrl: true
   url: "https://github.com/opeak123"
 
-- default: menu_about
+- default: menu_about_Paper
   url:   "about"
