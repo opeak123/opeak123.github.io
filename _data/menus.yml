@@ -1,7 +1,7 @@
-- default: menu_index
+- title: Playground
   url:   ""
 
-- default: menu_category
+- title: Category
   url:   "category"
 
 - title: "Github"
@@ -9,5 +9,9 @@
   #첫 페이지에서 열리는 깃허브 홈페이지
   url: "https://github.com/opeak123"
 
-- default: menu_about
+- title: About Paper
   url:   "about"
+
+# 메뉴 하나 더 만들려면 수정 
+#- title: About Paper
+#  url:   "about"
