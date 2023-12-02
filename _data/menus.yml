@@ -6,6 +6,7 @@
 
 - title: "Github"
   absoluteUrl: true
+  #첫 페이지에서 열리는 깃허브 홈페이지
   url: "https://github.com/opeak123"
 
 - default: menu_about

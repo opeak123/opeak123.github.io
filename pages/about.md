@@ -3,7 +3,7 @@ layout: page
 title: About this Paper
 permalink: /about/
 ---
-<br><br><br><br><br>
+<br><br><br>
 
 
 
